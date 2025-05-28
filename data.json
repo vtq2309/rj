@@ -1,0 +1,3607 @@
+[
+    {
+      "Suburb": "ABBOTSBURY",
+      "Run": "193",
+      "Chute": 16
+    },
+    {
+      "Suburb": "ABBOTSFORD",
+      "Run": "052",
+      "Chute": 24
+    },
+    {
+      "Suburb": "ACACIA GARDENS",
+      "Run": "136",
+      "Chute": 5
+    },
+    {
+      "Suburb": "AIRDS",
+      "Run": "114",
+      "Chute": 11
+    },
+    {
+      "Suburb": "ALEXANDRIA",
+      "Run": "070",
+      "Chute": 15
+    },
+    {
+      "Suburb": "ALFORDS POINT",
+      "Run": "138",
+      "Chute": 12
+    },
+    {
+      "Suburb": "ALLAMBIE HEIGHTS",
+      "Run": "084",
+      "Chute": 6
+    },
+    {
+      "Suburb": "ALLAWAH",
+      "Run": "157",
+      "Chute": 7
+    },
+    {
+      "Suburb": "AMBARVALE",
+      "Run": "364",
+      "Chute": 24
+    },
+    {
+      "Suburb": "ANGUS",
+      "Run": "086",
+      "Chute": 13
+    },
+    {
+      "Suburb": "ANNANDALE",
+      "Run": "151",
+      "Chute": 5
+    },
+    {
+      "Suburb": "ARNCLIFFE",
+      "Run": "347",
+      "Chute": 16
+    },
+    {
+      "Suburb": "ARNDELL PARK",
+      "Run": "004",
+      "Chute": 23
+    },
+    {
+      "Suburb": "ARTARMON",
+      "Run": "082",
+      "Chute": 14
+    },
+    {
+      "Suburb": "ASHBURY",
+      "Run": "132",
+      "Chute": 6
+    },
+    {
+      "Suburb": "ASHCROFT",
+      "Run": "377",
+      "Chute": 4
+    },
+    {
+      "Suburb": "ASHFIELD",
+      "Run": "132",
+      "Chute": 24
+    },
+    {
+      "Suburb": "ASQUITH",
+      "Run": "190",
+      "Chute": 5
+    },
+    {
+      "Suburb": "AUBURN",
+      "Run": "020",
+      "Chute": 8
+    },
+    {
+      "Suburb": "AUSTRAL",
+      "Run": "301",
+      "Chute": 20
+    },
+    {
+      "Suburb": "AVALON",
+      "Run": "073",
+      "Chute": 13
+    },
+    {
+      "Suburb": "AVALON BEACH",
+      "Run": "073",
+      "Chute": 23
+    },
+    {
+      "Suburb": "BALGOWLAH",
+      "Run": "175",
+      "Chute": 21
+    },
+    {
+      "Suburb": "BALGOWLAH HEIGHTS",
+      "Run": "177",
+      "Chute": 10
+    },
+    {
+      "Suburb": "BALMAIN",
+      "Run": "094",
+      "Chute": 2
+    },
+    {
+      "Suburb": "BALMAIN EAST",
+      "Run": "094",
+      "Chute": 7
+    },
+    {
+      "Suburb": "BANGOR",
+      "Run": "371",
+      "Chute": 20
+    },
+    {
+      "Suburb": "BANKSIA",
+      "Run": "347",
+      "Chute": 22
+    },
+    {
+      "Suburb": "BANKSMEADOW",
+      "Run": "066",
+      "Chute": 21
+    },
+    {
+      "Suburb": "BANKSTOWN",
+      "Run": "491",
+      "Chute": 15
+    },
+    {
+      "Suburb": "BANKSTOWN AERODROME",
+      "Run": "041",
+      "Chute": 11
+    },
+    {
+      "Suburb": "BANKSTOWN NORTH",
+      "Run": "491",
+      "Chute": 12
+    },
+    {
+      "Suburb": "BANKSTOWN SQUARE",
+      "Run": "491",
+      "Chute": 9
+    },
+    {
+      "Suburb": "BARANGAROO",
+      "Run": "057",
+      "Chute": 21
+    },
+    {
+      "Suburb": "BARDEN RIDGE",
+      "Run": "138",
+      "Chute": 23
+    },
+    {
+      "Suburb": "BARDIA",
+      "Run": "302",
+      "Chute": 4
+    },
+    {
+      "Suburb": "BARDWELL PARK",
+      "Run": "154",
+      "Chute": 11
+    },
+    {
+      "Suburb": "BARDWELL VALLEY",
+      "Run": "154",
+      "Chute": 9
+    },
+    {
+      "Suburb": "BASS HILL",
+      "Run": "092",
+      "Chute": 20
+    },
+    {
+      "Suburb": "BAULKHAM HILLS",
+      "Run": "102",
+      "Chute": 10
+    },
+    {
+      "Suburb": "BAYVIEW",
+      "Run": "173",
+      "Chute": 21
+    },
+    {
+      "Suburb": "BEACON HILL",
+      "Run": "097",
+      "Chute": 22
+    },
+    {
+      "Suburb": "BEACONSFIELD",
+      "Run": "070",
+      "Chute": 2
+    },
+    {
+      "Suburb": "BEAUMONT HILLS",
+      "Run": "006",
+      "Chute": 6
+    },
+    {
+      "Suburb": "BEECROFT",
+      "Run": "339",
+      "Chute": 7
+    },
+    {
+      "Suburb": "BELFIELD",
+      "Run": "046",
+      "Chute": 20
+    },
+    {
+      "Suburb": "BELLA VISTA",
+      "Run": "011",
+      "Chute": 20
+    },
+    {
+      "Suburb": "BELLEVUE HILL",
+      "Run": "162",
+      "Chute": 21
+    },
+    {
+      "Suburb": "BELMORE",
+      "Run": "046",
+      "Chute": 1
+    },
+    {
+      "Suburb": "BELROSE",
+      "Run": "083",
+      "Chute": 5
+    },
+    {
+      "Suburb": "BELROSE WEST",
+      "Run": "083",
+      "Chute": 20
+    },
+    {
+      "Suburb": "BERALA",
+      "Run": "020",
+      "Chute": 22
+    },
+    {
+      "Suburb": "BERKSHIRE PARK",
+      "Run": "152",
+      "Chute": 17
+    },
+    {
+      "Suburb": "BEROWRA",
+      "Run": "187",
+      "Chute": 9
+    },
+    {
+      "Suburb": "BEROWRA HEIGHTS",
+      "Run": "187",
+      "Chute": 23
+    },
+    {
+      "Suburb": "BEVERLEY PARK",
+      "Run": "103",
+      "Chute": 10
+    },
+    {
+      "Suburb": "BEVERLY HILLS",
+      "Run": "047",
+      "Chute": 24
+    },
+    {
+      "Suburb": "BEXLEY",
+      "Run": "045",
+      "Chute": 14
+    },
+    {
+      "Suburb": "BEXLEY NORTH",
+      "Run": "045",
+      "Chute": 4
+    },
+    {
+      "Suburb": "BEXLEY SOUTH",
+      "Run": "045",
+      "Chute": 7
+    },
+    {
+      "Suburb": "BIDWILL",
+      "Run": "126",
+      "Chute": 22
+    },
+    {
+      "Suburb": "BILGOLA",
+      "Run": "073",
+      "Chute": 15
+    },
+    {
+      "Suburb": "BILGOLA BEACH",
+      "Run": "073",
+      "Chute": 13
+    },
+    {
+      "Suburb": "BILGOLA PLATEAU",
+      "Run": "073",
+      "Chute": 20
+    },
+    {
+      "Suburb": "BIRCHGROVE",
+      "Run": "094",
+      "Chute": 20
+    },
+    {
+      "Suburb": "BIRKENHEAD POINT",
+      "Run": "052",
+      "Chute": 4
+    },
+    {
+      "Suburb": "BIRRONG",
+      "Run": "021",
+      "Chute": 14
+    },
+    {
+      "Suburb": "BLACKETT",
+      "Run": "355",
+      "Chute": 6
+    },
+    {
+      "Suburb": "BLACKHEATH",
+      "Run": "358",
+      "Chute": 6
+    },
+    {
+      "Suburb": "BLACKTOWN",
+      "Run": "357",
+      "Chute": 13
+    },
+    {
+      "Suburb": "BLACKTOWN WESTPOINT",
+      "Run": "357",
+      "Chute": 13
+    },
+    {
+      "Suburb": "BLAIR ATHOL",
+      "Run": "033",
+      "Chute": 7
+    },
+    {
+      "Suburb": "BLAIRMOUNT",
+      "Run": "030",
+      "Chute": 5
+    },
+    {
+      "Suburb": "BLAKEHURST",
+      "Run": "156",
+      "Chute": 20
+    },
+    {
+      "Suburb": "BLAXCELL",
+      "Run": "120",
+      "Chute": 8
+    },
+    {
+      "Suburb": "BLAXLAND",
+      "Run": "109",
+      "Chute": 1
+    },
+    {
+      "Suburb": "BLAXLAND EAST",
+      "Run": "109",
+      "Chute": 6
+    },
+    {
+      "Suburb": "BLENHEIM ROAD",
+      "Run": "106",
+      "Chute": 1
+    },
+    {
+      "Suburb": "BLIGH PARK",
+      "Run": "378",
+      "Chute": 4
+    },
+    {
+      "Suburb": "BONDI",
+      "Run": "161",
+      "Chute": 24
+    },
+    {
+      "Suburb": "BONDI BEACH",
+      "Run": "161",
+      "Chute": 9
+    },
+    {
+      "Suburb": "BONDI JUNCTION",
+      "Run": "064",
+      "Chute": 8
+    },
+    {
+      "Suburb": "BONNET BAY",
+      "Run": "371",
+      "Chute": 2
+    },
+    {
+      "Suburb": "BONNYRIGG",
+      "Run": "362",
+      "Chute": 6
+    },
+    {
+      "Suburb": "BONNYRIGG HEIGHTS",
+      "Run": "362",
+      "Chute": 11
+    },
+    {
+      "Suburb": "BORONIA PARK",
+      "Run": "125",
+      "Chute": 8
+    },
+    {
+      "Suburb": "BOSSLEY PARK",
+      "Run": "105",
+      "Chute": 11
+    },
+    {
+      "Suburb": "BOTANY",
+      "Run": "067",
+      "Chute": 6
+    },
+    {
+      "Suburb": "BOW BOWING",
+      "Run": "030",
+      "Chute": 17
+    },
+    {
+      "Suburb": "BOX HILL",
+      "Run": "378",
+      "Chute": 13
+    },
+    {
+      "Suburb": "BRADBURY",
+      "Run": "364",
+      "Chute": 21
+    },
+    {
+      "Suburb": "BREAKFAST POINT",
+      "Run": "148",
+      "Chute": 12
+    },
+    {
+      "Suburb": "BRIGHTON LE SANDS",
+      "Run": "157",
+      "Chute": 16
+    },
+    {
+      "Suburb": "BRIGHTON-LE-SANDS",
+      "Run": "157",
+      "Chute": 2
+    },
+    {
+      "Suburb": "BROADWAY",
+      "Run": "053",
+      "Chute": 22
+    },
+    {
+      "Suburb": "BRONTE",
+      "Run": "150",
+      "Chute": 12
+    },
+    {
+      "Suburb": "BROOKVALE",
+      "Run": "071",
+      "Chute": 10
+    },
+    {
+      "Suburb": "BULLABURRA",
+      "Run": "228",
+      "Chute": 10
+    },
+    {
+      "Suburb": "BUNGAN BEACH",
+      "Run": "073",
+      "Chute": 16
+    },
+    {
+      "Suburb": "BUNGARRIBEE",
+      "Run": "004",
+      "Chute": 16
+    },
+    {
+      "Suburb": "BURRANEER",
+      "Run": "036",
+      "Chute": 20
+    },
+    {
+      "Suburb": "BURWOOD",
+      "Run": "481",
+      "Chute": 10
+    },
+    {
+      "Suburb": "BURWOOD HEIGHTS",
+      "Run": "132",
+      "Chute": 24
+    },
+    {
+      "Suburb": "BURWOOD NORTH",
+      "Run": "481",
+      "Chute": 19
+    },
+    {
+      "Suburb": "BUSBY",
+      "Run": "377",
+      "Chute": 11
+    },
+    {
+      "Suburb": "CABARITA",
+      "Run": "148",
+      "Chute": 11
+    },
+    {
+      "Suburb": "CABRAMATTA",
+      "Run": "133",
+      "Chute": 15
+    },
+    {
+      "Suburb": "CABRAMATTA WEST",
+      "Run": "194",
+      "Chute": 22
+    },
+    {
+      "Suburb": "CADDENS",
+      "Run": "098",
+      "Chute": 14
+    },
+    {
+      "Suburb": "CAMBRIDGE GARDENS",
+      "Run": "198",
+      "Chute": 3
+    },
+    {
+      "Suburb": "CAMBRIDGE PARK",
+      "Run": "098",
+      "Chute": 8
+    },
+    {
+      "Suburb": "CAMDEN",
+      "Run": "372",
+      "Chute": 6
+    },
+    {
+      "Suburb": "CAMDEN PARK",
+      "Run": "372",
+      "Chute": 22
+    },
+    {
+      "Suburb": "CAMDEN SOUTH",
+      "Run": "372",
+      "Chute": 7
+    },
+    {
+      "Suburb": "CAMELLIA",
+      "Run": "014",
+      "Chute": 12
+    },
+    {
+      "Suburb": "CAMMERAY",
+      "Run": "121",
+      "Chute": 1
+    },
+    {
+      "Suburb": "CAMPBELLTOWN",
+      "Run": "033",
+      "Chute": 9
+    },
+    {
+      "Suburb": "CAMPBELLTOWN NORTH",
+      "Run": "033",
+      "Chute": 6
+    },
+    {
+      "Suburb": "CAMPERDOWN",
+      "Run": "127",
+      "Chute": 4
+    },
+    {
+      "Suburb": "CAMPSIE",
+      "Run": "055",
+      "Chute": 5
+    },
+    {
+      "Suburb": "CANADA BAY",
+      "Run": "148",
+      "Chute": 6
+    },
+    {
+      "Suburb": "CANLEY HEIGHTS",
+      "Run": "194",
+      "Chute": 15
+    },
+    {
+      "Suburb": "CANLEY VALE",
+      "Run": "194",
+      "Chute": 22
+    },
+    {
+      "Suburb": "CANTERBURY",
+      "Run": "145",
+      "Chute": 20
+    },
+    {
+      "Suburb": "CAREEL BEACH",
+      "Run": "073",
+      "Chute": 7
+    },
+    {
+      "Suburb": "CARINGBAH",
+      "Run": "361",
+      "Chute": 4
+    },
+    {
+      "Suburb": "CARINGBAH SOUTH",
+      "Run": "036",
+      "Chute": 4
+    },
+    {
+      "Suburb": "CARLINGFORD",
+      "Run": "124",
+      "Chute": 10
+    },
+    {
+      "Suburb": "CARLINGFORD COURT",
+      "Run": "123",
+      "Chute": 1
+    },
+    {
+      "Suburb": "CARLINGFORD NORTH",
+      "Run": "124",
+      "Chute": 17
+    },
+    {
+      "Suburb": "CARLTON",
+      "Run": "157",
+      "Chute": 24
+    },
+    {
+      "Suburb": "CARNES HILL",
+      "Run": "291",
+      "Chute": 23
+    },
+    {
+      "Suburb": "CARRAMAR",
+      "Run": "133",
+      "Chute": 8
+    },
+    {
+      "Suburb": "CARSS PARK",
+      "Run": "156",
+      "Chute": 22
+    },
+    {
+      "Suburb": "CARTWRIGHT",
+      "Run": "377",
+      "Chute": 16
+    },
+    {
+      "Suburb": "CASTLE COVE",
+      "Run": "080",
+      "Chute": 20
+    },
+    {
+      "Suburb": "CASTLE HILL",
+      "Run": "352",
+      "Chute": 12
+    },
+    {
+      "Suburb": "CASTLECRAG",
+      "Run": "080",
+      "Chute": 18
+    },
+    {
+      "Suburb": "CASULA",
+      "Run": "376",
+      "Chute": 8
+    },
+    {
+      "Suburb": "CASULA MALL",
+      "Run": "376",
+      "Chute": 22
+    },
+    {
+      "Suburb": "CATHERINE FIELD",
+      "Run": "031",
+      "Chute": 2
+    },
+    {
+      "Suburb": "CECIL HILLS",
+      "Run": "193",
+      "Chute": 8
+    },
+    {
+      "Suburb": "CECIL PARK",
+      "Run": "301",
+      "Chute": 6
+    },
+    {
+      "Suburb": "CENTENNIAL PARK",
+      "Run": "064",
+      "Chute": 11
+    },
+    {
+      "Suburb": "CHATSWOOD",
+      "Run": "137",
+      "Chute": 15
+    },
+    {
+      "Suburb": "CHATSWOOD WEST",
+      "Run": "180",
+      "Chute": 13
+    },
+    {
+      "Suburb": "CHELTENHAM",
+      "Run": "339",
+      "Chute": 11
+    },
+    {
+      "Suburb": "CHERRYBROOK",
+      "Run": "016",
+      "Chute": 23
+    },
+    {
+      "Suburb": "CHESTER HILL",
+      "Run": "120",
+      "Chute": 20
+    },
+    {
+      "Suburb": "CHIFLEY",
+      "Run": "346",
+      "Chute": 6
+    },
+    {
+      "Suburb": "CHIPPENDALE",
+      "Run": "591",
+      "Chute": 9
+    },
+    {
+      "Suburb": "CHIPPING NORTON",
+      "Run": "104",
+      "Chute": 10
+    },
+    {
+      "Suburb": "CHISWICK",
+      "Run": "052",
+      "Chute": 15
+    },
+    {
+      "Suburb": "CHULLORA",
+      "Run": "040",
+      "Chute": 9
+    },
+    {
+      "Suburb": "CHURCH POINT",
+      "Run": "173",
+      "Chute": 21
+    },
+    {
+      "Suburb": "CLAREMONT MEADOWS",
+      "Run": "098",
+      "Chute": 21
+    },
+    {
+      "Suburb": "CLARENDON",
+      "Run": "007",
+      "Chute": 16
+    },
+    {
+      "Suburb": "CLAREVILLE",
+      "Run": "073",
+      "Chute": 17
+    },
+    {
+      "Suburb": "CLAYMORE",
+      "Run": "030",
+      "Chute": 1
+    },
+    {
+      "Suburb": "CLEMTON PARK",
+      "Run": "145",
+      "Chute": 6
+    },
+    {
+      "Suburb": "CLIFTON GARDENS",
+      "Run": "076",
+      "Chute": 18
+    },
+    {
+      "Suburb": "CLONTARF",
+      "Run": "177",
+      "Chute": 20
+    },
+    {
+      "Suburb": "CLOVELLY",
+      "Run": "150",
+      "Chute": 18
+    },
+    {
+      "Suburb": "CLOVELLY WEST",
+      "Run": "150",
+      "Chute": 13
+    },
+    {
+      "Suburb": "CLYDE",
+      "Run": "020",
+      "Chute": 12
+    },
+    {
+      "Suburb": "COBBITTY",
+      "Run": "314",
+      "Chute": 16
+    },
+    {
+      "Suburb": "COLEBEE",
+      "Run": "086",
+      "Chute": 4
+    },
+    {
+      "Suburb": "COLLAROY",
+      "Run": "179",
+      "Chute": 16
+    },
+    {
+      "Suburb": "COLLAROY BEACH",
+      "Run": "179",
+      "Chute": 6
+    },
+    {
+      "Suburb": "COLLAROY PLATEAU",
+      "Run": "179",
+      "Chute": 23
+    },
+    {
+      "Suburb": "COLYTON",
+      "Run": "354",
+      "Chute": 20
+    },
+    {
+      "Suburb": "COMO",
+      "Run": "371",
+      "Chute": 24
+    },
+    {
+      "Suburb": "CONCORD",
+      "Run": "050",
+      "Chute": 7
+    },
+    {
+      "Suburb": "CONCORD REPATRIATION HOSPITAL",
+      "Run": "050",
+      "Chute": 24
+    },
+    {
+      "Suburb": "CONCORD WEST",
+      "Run": "050",
+      "Chute": 3
+    },
+    {
+      "Suburb": "CONDELL PARK",
+      "Run": "041",
+      "Chute": 22
+    },
+    {
+      "Suburb": "CONNELLS POINT",
+      "Run": "156",
+      "Chute": 21
+    },
+    {
+      "Suburb": "CONSTITUTION HILL",
+      "Run": "141",
+      "Chute": 17
+    },
+    {
+      "Suburb": "COOGEE",
+      "Run": "069",
+      "Chute": 19
+    },
+    {
+      "Suburb": "CRANEBROOK",
+      "Run": "152",
+      "Chute": 10
+    },
+    {
+      "Suburb": "CREMORNE",
+      "Run": "189",
+      "Chute": 23
+    },
+    {
+      "Suburb": "CREMORNE JUNCTION",
+      "Run": "189",
+      "Chute": 17
+    },
+    {
+      "Suburb": "CREMORNE POINT",
+      "Run": "189",
+      "Chute": 10
+    },
+    {
+      "Suburb": "CROMER",
+      "Run": "097",
+      "Chute": 24
+    },
+    {
+      "Suburb": "CROMER HEIGHTS",
+      "Run": "097",
+      "Chute": 15
+    },
+    {
+      "Suburb": "CRONULLA",
+      "Run": "351",
+      "Chute": 21
+    },
+    {
+      "Suburb": "CROWS NEST",
+      "Run": "186",
+      "Chute": 15
+    },
+    {
+      "Suburb": "CROYDON",
+      "Run": "481",
+      "Chute": 12
+    },
+    {
+      "Suburb": "CROYDON PARK",
+      "Run": "132",
+      "Chute": 8
+    },
+    {
+      "Suburb": "CURL CURL",
+      "Run": "172",
+      "Chute": 17
+    },
+    {
+      "Suburb": "CURRANS HILL",
+      "Run": "031",
+      "Chute": 9
+    },
+    {
+      "Suburb": "DACEYVILLE",
+      "Run": "167",
+      "Chute": 23
+    },
+    {
+      "Suburb": "DARLING HARBOUR",
+      "Run": "056",
+      "Chute": 11
+    },
+    {
+      "Suburb": "DARLING POINT",
+      "Run": "164",
+      "Chute": 20
+    },
+    {
+      "Suburb": "DARLINGHURST",
+      "Run": "063",
+      "Chute": 6
+    },
+    {
+      "Suburb": "DARLINGTON",
+      "Run": "591",
+      "Chute": 20
+    },
+    {
+      "Suburb": "DAVIDSON",
+      "Run": "083",
+      "Chute": 18
+    },
+    {
+      "Suburb": "DAWES POINT",
+      "Run": "057",
+      "Chute": 6
+    },
+    {
+      "Suburb": "DEAN PARK",
+      "Run": "135",
+      "Chute": 4
+    },
+    {
+      "Suburb": "DEE WHY",
+      "Run": "171",
+      "Chute": 18
+    },
+    {
+      "Suburb": "DENHAM COURT",
+      "Run": "302",
+      "Chute": 13
+    },
+    {
+      "Suburb": "DENISTONE",
+      "Run": "013",
+      "Chute": 6
+    },
+    {
+      "Suburb": "DENISTONE EAST",
+      "Run": "013",
+      "Chute": 11
+    },
+    {
+      "Suburb": "DENISTONE WEST",
+      "Run": "013",
+      "Chute": 6
+    },
+    {
+      "Suburb": "DHARRUK",
+      "Run": "355",
+      "Chute": 20
+    },
+    {
+      "Suburb": "DOLANS BAY",
+      "Run": "036",
+      "Chute": 15
+    },
+    {
+      "Suburb": "DOLLS POINT",
+      "Run": "103",
+      "Chute": 8
+    },
+    {
+      "Suburb": "DOONSIDE",
+      "Run": "357",
+      "Chute": 3
+    },
+    {
+      "Suburb": "DOUBLE BAY",
+      "Run": "162",
+      "Chute": 5
+    },
+    {
+      "Suburb": "DOVER HEIGHTS",
+      "Run": "340",
+      "Chute": 15
+    },
+    {
+      "Suburb": "DRUMMOYNE",
+      "Run": "052",
+      "Chute": 10
+    },
+    {
+      "Suburb": "DULWICH HILL",
+      "Run": "055",
+      "Chute": 13
+    },
+    {
+      "Suburb": "DUNDAS",
+      "Run": "338",
+      "Chute": 1
+    },
+    {
+      "Suburb": "DUNDAS VALLEY",
+      "Run": "338",
+      "Chute": 17
+    },
+    {
+      "Suburb": "DUNHEVED",
+      "Run": "003",
+      "Chute": 3
+    },
+    {
+      "Suburb": "DURAL",
+      "Run": "016",
+      "Chute": 2
+    },
+    {
+      "Suburb": "EAGLE VALE",
+      "Run": "030",
+      "Chute": 7
+    },
+    {
+      "Suburb": "EARLWOOD",
+      "Run": "154",
+      "Chute": 5
+    },
+    {
+      "Suburb": "EAST HILLS",
+      "Run": "149",
+      "Chute": 8
+    },
+    {
+      "Suburb": "EAST KILLARA",
+      "Run": "180",
+      "Chute": 24
+    },
+    {
+      "Suburb": "EAST LINDFIELD",
+      "Run": "180",
+      "Chute": 10
+    },
+    {
+      "Suburb": "EAST RYDE",
+      "Run": "181",
+      "Chute": 18
+    },
+    {
+      "Suburb": "EASTERN CREEK",
+      "Run": "353",
+      "Chute": 15
+    },
+    {
+      "Suburb": "EASTGARDENS",
+      "Run": "167",
+      "Chute": 9
+    },
+    {
+      "Suburb": "EASTLAKES",
+      "Run": "111",
+      "Chute": 2
+    },
+    {
+      "Suburb": "EASTWOOD",
+      "Run": "181",
+      "Chute": 15
+    },
+    {
+      "Suburb": "EDENSOR PARK",
+      "Run": "105",
+      "Chute": 17
+    },
+    {
+      "Suburb": "EDGECLIFF",
+      "Run": "134",
+      "Chute": 17
+    },
+    {
+      "Suburb": "EDMONDSON PARK",
+      "Run": "302",
+      "Chute": 17
+    },
+    {
+      "Suburb": "ELANORA HEIGHTS",
+      "Run": "197",
+      "Chute": 10
+    },
+    {
+      "Suburb": "ELDERSLIE",
+      "Run": "372",
+      "Chute": 14
+    },
+    {
+      "Suburb": "ELIZABETH BAY",
+      "Run": "631",
+      "Chute": 2
+    },
+    {
+      "Suburb": "ELIZABETH HILLS",
+      "Run": "193",
+      "Chute": 10
+    },
+    {
+      "Suburb": "EMERTON",
+      "Run": "355",
+      "Chute": 7
+    },
+    {
+      "Suburb": "EMU HEIGHTS",
+      "Run": "099",
+      "Chute": 4
+    },
+    {
+      "Suburb": "EMU PLAINS",
+      "Run": "099",
+      "Chute": 5
+    },
+    {
+      "Suburb": "ENFIELD",
+      "Run": "046",
+      "Chute": 23
+    },
+    {
+      "Suburb": "ENFIELD SOUTH",
+      "Run": "046",
+      "Chute": 21
+    },
+    {
+      "Suburb": "ENGADINE",
+      "Run": "144",
+      "Chute": 6
+    },
+    {
+      "Suburb": "ENGLORIE PARK",
+      "Run": "364",
+      "Chute": 9
+    },
+    {
+      "Suburb": "ENMORE",
+      "Run": "155",
+      "Chute": 17
+    },
+    {
+      "Suburb": "EPPING",
+      "Run": "123",
+      "Chute": 23
+    },
+    {
+      "Suburb": "ERMINGTON",
+      "Run": "013",
+      "Chute": 3
+    },
+    {
+      "Suburb": "ERSKINE PARK",
+      "Run": "117",
+      "Chute": 4
+    },
+    {
+      "Suburb": "ERSKINEVILLE",
+      "Run": "059",
+      "Chute": 13
+    },
+    {
+      "Suburb": "ESCHOL PARK",
+      "Run": "030",
+      "Chute": 8
+    },
+    {
+      "Suburb": "EVELEIGH",
+      "Run": "591",
+      "Chute": 17
+    },
+    {
+      "Suburb": "FAIRFIELD",
+      "Run": "133",
+      "Chute": 4
+    },
+    {
+      "Suburb": "FAIRFIELD EAST",
+      "Run": "024",
+      "Chute": 13
+    },
+    {
+      "Suburb": "FAIRFIELD HEIGHTS",
+      "Run": "195",
+      "Chute": 14
+    },
+    {
+      "Suburb": "FAIRFIELD WEST",
+      "Run": "195",
+      "Chute": 13
+    },
+    {
+      "Suburb": "FAIRLIGHT",
+      "Run": "175",
+      "Chute": 10
+    },
+    {
+      "Suburb": "FAULCONBRIDGE",
+      "Run": "101",
+      "Chute": 23
+    },
+    {
+      "Suburb": "FIVE DOCK",
+      "Run": "148",
+      "Chute": 11
+    },
+    {
+      "Suburb": "FOREST LODGE",
+      "Run": "053",
+      "Chute": 14
+    },
+    {
+      "Suburb": "FORESTVILLE",
+      "Run": "831",
+      "Chute": 7
+    },
+    {
+      "Suburb": "FRENCHS FOREST",
+      "Run": "831",
+      "Chute": 4
+    },
+    {
+      "Suburb": "FRENCHS FOREST EAST",
+      "Run": "831",
+      "Chute": 15
+    },
+    {
+      "Suburb": "FRESHWATER",
+      "Run": "172",
+      "Chute": 2
+    },
+    {
+      "Suburb": "GABLES",
+      "Run": "378",
+      "Chute": 2
+    },
+    {
+      "Suburb": "GEORGES HALL",
+      "Run": "092",
+      "Chute": 3
+    },
+    {
+      "Suburb": "GEORGES HEIGHTS",
+      "Run": "076",
+      "Chute": 21
+    },
+    {
+      "Suburb": "GIRRAWEEN",
+      "Run": "010",
+      "Chute": 22
+    },
+    {
+      "Suburb": "GLADESVILLE",
+      "Run": "125",
+      "Chute": 12
+    },
+    {
+      "Suburb": "GLEBE",
+      "Run": "053",
+      "Chute": 9
+    },
+    {
+      "Suburb": "GLEDSWOOD HILLS",
+      "Run": "031",
+      "Chute": 1
+    },
+    {
+      "Suburb": "GLEN ALPINE",
+      "Run": "364",
+      "Chute": 18
+    },
+    {
+      "Suburb": "GLENBROOK",
+      "Run": "109",
+      "Chute": 22
+    },
+    {
+      "Suburb": "GLENDENNING",
+      "Run": "135",
+      "Chute": 15
+    },
+    {
+      "Suburb": "GLENFIELD",
+      "Run": "376",
+      "Chute": 23
+    },
+    {
+      "Suburb": "GLENHAVEN",
+      "Run": "192",
+      "Chute": 15
+    },
+    {
+      "Suburb": "GLENMORE PARK",
+      "Run": "191",
+      "Chute": 13
+    },
+    {
+      "Suburb": "GLENWOOD",
+      "Run": "136",
+      "Chute": 6
+    },
+    {
+      "Suburb": "GORDON",
+      "Run": "108",
+      "Chute": 18
+    },
+    {
+      "Suburb": "GRANTHAM FARM",
+      "Run": "086",
+      "Chute": 14
+    },
+    {
+      "Suburb": "GRANVILLE",
+      "Run": "120",
+      "Chute": 10
+    },
+    {
+      "Suburb": "GRAYS POINT",
+      "Run": "038",
+      "Chute": 12
+    },
+    {
+      "Suburb": "GREEN VALLEY",
+      "Run": "193",
+      "Chute": 18
+    },
+    {
+      "Suburb": "GREENACRE",
+      "Run": "344",
+      "Chute": 12
+    },
+    {
+      "Suburb": "GREENFIELD PARK",
+      "Run": "105",
+      "Chute": 3
+    },
+    {
+      "Suburb": "GREENHILLS BEACH",
+      "Run": "035",
+      "Chute": 20
+    },
+    {
+      "Suburb": "GREENWICH",
+      "Run": "182",
+      "Chute": 14
+    },
+    {
+      "Suburb": "GREGORY HILLS",
+      "Run": "031",
+      "Chute": 24
+    },
+    {
+      "Suburb": "GREYSTANES",
+      "Run": "282",
+      "Chute": 20
+    },
+    {
+      "Suburb": "GUILDFORD",
+      "Run": "283",
+      "Chute": 17
+    },
+    {
+      "Suburb": "GUILDFORD WEST",
+      "Run": "028",
+      "Chute": 16
+    },
+    {
+      "Suburb": "GYMEA",
+      "Run": "038",
+      "Chute": 9
+    },
+    {
+      "Suburb": "GYMEA BAY",
+      "Run": "038",
+      "Chute": 13
+    },
+    {
+      "Suburb": "HABERFIELD",
+      "Run": "349",
+      "Chute": 9
+    },
+    {
+      "Suburb": "HAMMONDVILLE",
+      "Run": "271",
+      "Chute": 9
+    },
+    {
+      "Suburb": "HARBORD",
+      "Run": "172",
+      "Chute": 10
+    },
+    {
+      "Suburb": "HARRINGTON PARK",
+      "Run": "312",
+      "Chute": 9
+    },
+    {
+      "Suburb": "HARRIS PARK",
+      "Run": "014",
+      "Chute": 11
+    },
+    {
+      "Suburb": "HASSALL GROVE",
+      "Run": "126",
+      "Chute": 9
+    },
+    {
+      "Suburb": "HAYMARKET",
+      "Run": "091",
+      "Chute": 6
+    },
+    {
+      "Suburb": "HAZELBROOK",
+      "Run": "101",
+      "Chute": 17
+    },
+    {
+      "Suburb": "HEATHCOTE",
+      "Run": "144",
+      "Chute": 6
+    },
+    {
+      "Suburb": "HEBERSHAM",
+      "Run": "126",
+      "Chute": 8
+    },
+    {
+      "Suburb": "HECKENBERG",
+      "Run": "377",
+      "Chute": 19
+    },
+    {
+      "Suburb": "HENLEY",
+      "Run": "125",
+      "Chute": 17
+    },
+    {
+      "Suburb": "HILLSDALE",
+      "Run": "066",
+      "Chute": 14
+    },
+    {
+      "Suburb": "HINCHINBROOK",
+      "Run": "377",
+      "Chute": 22
+    },
+    {
+      "Suburb": "HMAS PENGUIN",
+      "Run": "176",
+      "Chute": 24
+    },
+    {
+      "Suburb": "HMAS PLATYPUS",
+      "Run": "081",
+      "Chute": 21
+    },
+    {
+      "Suburb": "HMAS RUSHCUTTERS",
+      "Run": "134",
+      "Chute": 24
+    },
+    {
+      "Suburb": "HMAS WATERHEN",
+      "Run": "081",
+      "Chute": 8
+    },
+    {
+      "Suburb": "HMAS WATSON",
+      "Run": "340",
+      "Chute": 15
+    },
+    {
+      "Suburb": "HOBARTVILLE",
+      "Run": "007",
+      "Chute": 11
+    },
+    {
+      "Suburb": "HOLROYD",
+      "Run": "283",
+      "Chute": 4
+    },
+    {
+      "Suburb": "HOLSWORTHY",
+      "Run": "271",
+      "Chute": 18
+    },
+    {
+      "Suburb": "HOMEBUSH",
+      "Run": "048",
+      "Chute": 21
+    },
+    {
+      "Suburb": "HOMEBUSH BAY",
+      "Run": "019",
+      "Chute": 18
+    },
+    {
+      "Suburb": "HOMEBUSH SOUTH",
+      "Run": "048",
+      "Chute": 23
+    },
+    {
+      "Suburb": "HOMEBUSH WEST",
+      "Run": "022",
+      "Chute": 14
+    },
+    {
+      "Suburb": "HORNINGSEA PARK",
+      "Run": "291",
+      "Chute": 9
+    },
+    {
+      "Suburb": "HORNSBY",
+      "Run": "188",
+      "Chute": 16
+    },
+    {
+      "Suburb": "HORNSBY HEIGHTS",
+      "Run": "190",
+      "Chute": 21
+    },
+    {
+      "Suburb": "HORSLEY PARK",
+      "Run": "301",
+      "Chute": 1
+    },
+    {
+      "Suburb": "HOXTON PARK",
+      "Run": "291",
+      "Chute": 10
+    },
+    {
+      "Suburb": "HUNTERS HILL",
+      "Run": "125",
+      "Chute": 9
+    },
+    {
+      "Suburb": "HUNTINGWOOD",
+      "Run": "004",
+      "Chute": 13
+    },
+    {
+      "Suburb": "HUNTLEYS COVE",
+      "Run": "125",
+      "Chute": 20
+    },
+    {
+      "Suburb": "HUNTLEYS POINT",
+      "Run": "125",
+      "Chute": 23
+    },
+    {
+      "Suburb": "HURLSTONE PARK",
+      "Run": "055",
+      "Chute": 3
+    },
+    {
+      "Suburb": "HURSTVILLE",
+      "Run": "044",
+      "Chute": 19
+    },
+    {
+      "Suburb": "HURSTVILLE GROVE",
+      "Run": "156",
+      "Chute": 10
+    },
+    {
+      "Suburb": "HURSTVILLE WESTFIELD",
+      "Run": "044",
+      "Chute": 24
+    },
+    {
+      "Suburb": "ILLAWONG",
+      "Run": "138",
+      "Chute": 15
+    },
+    {
+      "Suburb": "INGLEBURN",
+      "Run": "032",
+      "Chute": 12
+    },
+    {
+      "Suburb": "INGLEBURN MILPO",
+      "Run": "032",
+      "Chute": 4
+    },
+    {
+      "Suburb": "INGLESIDE",
+      "Run": "173",
+      "Chute": 16
+    },
+    {
+      "Suburb": "JAMISONTOWN",
+      "Run": "002",
+      "Chute": 22
+    },
+    {
+      "Suburb": "JANNALI",
+      "Run": "371",
+      "Chute": 3
+    },
+    {
+      "Suburb": "JORDAN SPRINGS",
+      "Run": "198",
+      "Chute": 6
+    },
+    {
+      "Suburb": "KANGAROO POINT",
+      "Run": "122",
+      "Chute": 20
+    },
+    {
+      "Suburb": "KAREELA",
+      "Run": "037",
+      "Chute": 4
+    },
+    {
+      "Suburb": "KATOOMBA",
+      "Run": "358",
+      "Chute": 8
+    },
+    {
+      "Suburb": "KEARNS",
+      "Run": "030",
+      "Chute": 9
+    },
+    {
+      "Suburb": "KELLYVILLE",
+      "Run": "160",
+      "Chute": 7
+    },
+    {
+      "Suburb": "KELLYVILLE RIDGE",
+      "Run": "602",
+      "Chute": 8
+    },
+    {
+      "Suburb": "KEMPS CREEK",
+      "Run": "301",
+      "Chute": 22
+    },
+    {
+      "Suburb": "KENSINGTON",
+      "Run": "169",
+      "Chute": 2
+    },
+    {
+      "Suburb": "KILLARA",
+      "Run": "183",
+      "Chute": 14
+    },
+    {
+      "Suburb": "KILLARNEY HEIGHTS",
+      "Run": "084",
+      "Chute": 23
+    },
+    {
+      "Suburb": "KINGS LANGLEY",
+      "Run": "356",
+      "Chute": 24
+    },
+    {
+      "Suburb": "KINGS PARK",
+      "Run": "005",
+      "Chute": 24
+    },
+    {
+      "Suburb": "KINGSDENE",
+      "Run": "124",
+      "Chute": 15
+    },
+    {
+      "Suburb": "KINGSFORD",
+      "Run": "169",
+      "Chute": 3
+    },
+    {
+      "Suburb": "KINGSGROVE",
+      "Run": "047",
+      "Chute": 21
+    },
+    {
+      "Suburb": "KINGSWAY WEST",
+      "Run": "043",
+      "Chute": 14
+    },
+    {
+      "Suburb": "KINGSWOOD",
+      "Run": "098",
+      "Chute": 10
+    },
+    {
+      "Suburb": "KIRKHAM",
+      "Run": "372",
+      "Chute": 15
+    },
+    {
+      "Suburb": "KIRRAWEE",
+      "Run": "037",
+      "Chute": 10
+    },
+    {
+      "Suburb": "KIRRIBILLI",
+      "Run": "176",
+      "Chute": 3
+    },
+    {
+      "Suburb": "KOGARAH",
+      "Run": "157",
+      "Chute": 17
+    },
+    {
+      "Suburb": "KOGARAH BAY",
+      "Run": "103",
+      "Chute": 12
+    },
+    {
+      "Suburb": "KURNELL",
+      "Run": "035",
+      "Chute": 23
+    },
+    {
+      "Suburb": "KURRABA POINT",
+      "Run": "176",
+      "Chute": 7
+    },
+    {
+      "Suburb": "KYEEMAGH",
+      "Run": "157",
+      "Chute": 24
+    },
+    {
+      "Suburb": "KYLE BAY",
+      "Run": "156",
+      "Chute": 10
+    },
+    {
+      "Suburb": "LA PEROUSE",
+      "Run": "346",
+      "Chute": 21
+    },
+    {
+      "Suburb": "LAKEMBA",
+      "Run": "046",
+      "Chute": 15
+    },
+    {
+      "Suburb": "LALOR PARK",
+      "Run": "356",
+      "Chute": 8
+    },
+    {
+      "Suburb": "LANE COVE",
+      "Run": "178",
+      "Chute": 13
+    },
+    {
+      "Suburb": "LANE COVE NORTH",
+      "Run": "178",
+      "Chute": 1
+    },
+    {
+      "Suburb": "LANE COVE WEST",
+      "Run": "082",
+      "Chute": 18
+    },
+    {
+      "Suburb": "LANSDOWNE",
+      "Run": "133",
+      "Chute": 13
+    },
+    {
+      "Suburb": "LANSVALE",
+      "Run": "133",
+      "Chute": 10
+    },
+    {
+      "Suburb": "LAPSTONE",
+      "Run": "109",
+      "Chute": 17
+    },
+    {
+      "Suburb": "LAVENDER BAY",
+      "Run": "081",
+      "Chute": 12
+    },
+    {
+      "Suburb": "LAWSON",
+      "Run": "228",
+      "Chute": 12
+    },
+    {
+      "Suburb": "LEICHHARDT",
+      "Run": "051",
+      "Chute": 12
+    },
+    {
+      "Suburb": "LEN WATERS ESTATE",
+      "Run": "193",
+      "Chute": 16
+    },
+    {
+      "Suburb": "LEONAY",
+      "Run": "109",
+      "Chute": 19
+    },
+    {
+      "Suburb": "LEPPINGTON",
+      "Run": "301",
+      "Chute": 7
+    },
+    {
+      "Suburb": "LETHBRIDGE PARK",
+      "Run": "355",
+      "Chute": 23
+    },
+    {
+      "Suburb": "LEUMEAH",
+      "Run": "114",
+      "Chute": 5
+    },
+    {
+      "Suburb": "LEURA",
+      "Run": "228",
+      "Chute": 16
+    },
+    {
+      "Suburb": "LEWISHAM",
+      "Run": "055",
+      "Chute": 4
+    },
+    {
+      "Suburb": "LIBERTY GROVE",
+      "Run": "050",
+      "Chute": 21
+    },
+    {
+      "Suburb": "LIDCOMBE",
+      "Run": "022",
+      "Chute": 2
+    },
+    {
+      "Suburb": "LIDCOMBE NORTH",
+      "Run": "022",
+      "Chute": 21
+    },
+    {
+      "Suburb": "LILLI PILLI",
+      "Run": "036",
+      "Chute": 22
+    },
+    {
+      "Suburb": "LILYFIELD",
+      "Run": "051",
+      "Chute": 12
+    },
+    {
+      "Suburb": "LINDEN",
+      "Run": "101",
+      "Chute": 10
+    },
+    {
+      "Suburb": "LINDFIELD",
+      "Run": "183",
+      "Chute": 10
+    },
+    {
+      "Suburb": "LINDFIELD WEST",
+      "Run": "183",
+      "Chute": 3
+    },
+    {
+      "Suburb": "LINLEY POINT",
+      "Run": "182",
+      "Chute": 15
+    },
+    {
+      "Suburb": "LITTLE BAY",
+      "Run": "346",
+      "Chute": 10
+    },
+    {
+      "Suburb": "LIVERPOOL",
+      "Run": "119",
+      "Chute": 24
+    },
+    {
+      "Suburb": "LIVERPOOL SOUTH",
+      "Run": "119",
+      "Chute": 1
+    },
+    {
+      "Suburb": "LIVERPOOL WESTFIELD",
+      "Run": "119",
+      "Chute": 11
+    },
+    {
+      "Suburb": "LLANDILO",
+      "Run": "152",
+      "Chute": 24
+    },
+    {
+      "Suburb": "LOFTUS",
+      "Run": "381",
+      "Chute": 23
+    },
+    {
+      "Suburb": "LONDONDERRY",
+      "Run": "152",
+      "Chute": 16
+    },
+    {
+      "Suburb": "LONGUEVILLE",
+      "Run": "182",
+      "Chute": 16
+    },
+    {
+      "Suburb": "LUCAS HEIGHTS",
+      "Run": "144",
+      "Chute": 14
+    },
+    {
+      "Suburb": "LUGARNO",
+      "Run": "042",
+      "Chute": 11
+    },
+    {
+      "Suburb": "LURNEA",
+      "Run": "377",
+      "Chute": 13
+    },
+    {
+      "Suburb": "MACARTHUR SQUARE",
+      "Run": "033",
+      "Chute": 7
+    },
+    {
+      "Suburb": "MACQUARIE CENTRE",
+      "Run": "106",
+      "Chute": 2
+    },
+    {
+      "Suburb": "MACQUARIE FIELDS",
+      "Run": "146",
+      "Chute": 11
+    },
+    {
+      "Suburb": "MACQUARIE LINKS",
+      "Run": "032",
+      "Chute": 16
+    },
+    {
+      "Suburb": "MACQUARIE PARK",
+      "Run": "106",
+      "Chute": 13
+    },
+    {
+      "Suburb": "MACQUARIE UNIVERSITY",
+      "Run": "106",
+      "Chute": 16
+    },
+    {
+      "Suburb": "MALABAR",
+      "Run": "346",
+      "Chute": 6
+    },
+    {
+      "Suburb": "MANAHAN",
+      "Run": "049",
+      "Chute": 11
+    },
+    {
+      "Suburb": "MANLY",
+      "Run": "075",
+      "Chute": 9
+    },
+    {
+      "Suburb": "MANLY EAST",
+      "Run": "075",
+      "Chute": 18
+    },
+    {
+      "Suburb": "MANLY VALE",
+      "Run": "175",
+      "Chute": 20
+    },
+    {
+      "Suburb": "MARAYONG",
+      "Run": "135",
+      "Chute": 1
+    },
+    {
+      "Suburb": "MAROUBRA",
+      "Run": "153",
+      "Chute": 22
+    },
+    {
+      "Suburb": "MAROUBRA SOUTH",
+      "Run": "153",
+      "Chute": 18
+    },
+    {
+      "Suburb": "MARRICKVILLE",
+      "Run": "115",
+      "Chute": 6
+    },
+    {
+      "Suburb": "MARRICKVILLE METRO",
+      "Run": "054",
+      "Chute": 5
+    },
+    {
+      "Suburb": "MARRICKVILLE SOUTH",
+      "Run": "115",
+      "Chute": 22
+    },
+    {
+      "Suburb": "MARSDEN PARK",
+      "Run": "861",
+      "Chute": 23
+    },
+    {
+      "Suburb": "MARSFIELD",
+      "Run": "106",
+      "Chute": 6
+    },
+    {
+      "Suburb": "MASCOT",
+      "Run": "068",
+      "Chute": 12
+    },
+    {
+      "Suburb": "MATRAVILLE",
+      "Run": "066",
+      "Chute": 13
+    },
+    {
+      "Suburb": "MAYS HILL",
+      "Run": "093",
+      "Chute": 4
+    },
+    {
+      "Suburb": "MCGRATHS HILL",
+      "Run": "008",
+      "Chute": 8
+    },
+    {
+      "Suburb": "MCMAHONS POINT",
+      "Run": "081",
+      "Chute": 4
+    },
+    {
+      "Suburb": "MEADOWBANK",
+      "Run": "184",
+      "Chute": 11
+    },
+    {
+      "Suburb": "MEDLOW BATH",
+      "Run": "358",
+      "Chute": 16
+    },
+    {
+      "Suburb": "MELONBA",
+      "Run": "861",
+      "Chute": 2
+    },
+    {
+      "Suburb": "MELROSE PARK",
+      "Run": "013",
+      "Chute": 23
+    },
+    {
+      "Suburb": "MENAI",
+      "Run": "138",
+      "Chute": 5
+    },
+    {
+      "Suburb": "MENAI CENTRAL",
+      "Run": "138",
+      "Chute": 21
+    },
+    {
+      "Suburb": "MERRYLANDS",
+      "Run": "283",
+      "Chute": 18
+    },
+    {
+      "Suburb": "MERRYLANDS WEST",
+      "Run": "282",
+      "Chute": 13
+    },
+    {
+      "Suburb": "MIDDLE COVE",
+      "Run": "080",
+      "Chute": 20
+    },
+    {
+      "Suburb": "MIDDLETON GRANGE",
+      "Run": "291",
+      "Chute": 18
+    },
+    {
+      "Suburb": "MILLER",
+      "Run": "377",
+      "Chute": 15
+    },
+    {
+      "Suburb": "MILLERS POINT",
+      "Run": "057",
+      "Chute": 12
+    },
+    {
+      "Suburb": "MILPERRA",
+      "Run": "039",
+      "Chute": 10
+    },
+    {
+      "Suburb": "MILSONS POINT",
+      "Run": "081",
+      "Chute": 2
+    },
+    {
+      "Suburb": "MINCHINBURY",
+      "Run": "353",
+      "Chute": 17
+    },
+    {
+      "Suburb": "MINTO",
+      "Run": "030",
+      "Chute": 7
+    },
+    {
+      "Suburb": "MIRANDA",
+      "Run": "122",
+      "Chute": 8
+    },
+    {
+      "Suburb": "MISSENDEN ROAD",
+      "Run": "591",
+      "Chute": 6
+    },
+    {
+      "Suburb": "MONA VALE",
+      "Run": "096",
+      "Chute": 19
+    },
+    {
+      "Suburb": "MONASH PARK",
+      "Run": "125",
+      "Chute": 8
+    },
+    {
+      "Suburb": "MONTEREY",
+      "Run": "103",
+      "Chute": 17
+    },
+    {
+      "Suburb": "MOORE PARK",
+      "Run": "064",
+      "Chute": 10
+    },
+    {
+      "Suburb": "MOOREBANK",
+      "Run": "027",
+      "Chute": 23
+    },
+    {
+      "Suburb": "MORTDALE",
+      "Run": "042",
+      "Chute": 23
+    },
+    {
+      "Suburb": "MORTLAKE",
+      "Run": "050",
+      "Chute": 23
+    },
+    {
+      "Suburb": "MOSMAN",
+      "Run": "076",
+      "Chute": 10
+    },
+    {
+      "Suburb": "MOUNT ANNAN",
+      "Run": "312",
+      "Chute": 9
+    },
+    {
+      "Suburb": "MOUNT COLAH",
+      "Run": "190",
+      "Chute": 13
+    },
+    {
+      "Suburb": "MOUNT DRUITT",
+      "Run": "355",
+      "Chute": 19
+    },
+    {
+      "Suburb": "MOUNT DRUITT VILLAGE",
+      "Run": "355",
+      "Chute": 16
+    },
+    {
+      "Suburb": "MOUNT KURING-GAI",
+      "Run": "187",
+      "Chute": 13
+    },
+    {
+      "Suburb": "MOUNT LEWIS",
+      "Run": "344",
+      "Chute": 7
+    },
+    {
+      "Suburb": "MOUNT LEWIS",
+      "Run": "344",
+      "Chute": 17
+    },
+    {
+      "Suburb": "MOUNT PRITCHARD",
+      "Run": "362",
+      "Chute": 6
+    },
+    {
+      "Suburb": "MOUNT RIVERVIEW",
+      "Run": "109",
+      "Chute": 3
+    },
+    {
+      "Suburb": "MULGRAVE",
+      "Run": "008",
+      "Chute": 21
+    },
+    {
+      "Suburb": "NARELLAN",
+      "Run": "312",
+      "Chute": 8
+    },
+    {
+      "Suburb": "NARELLAN VALE",
+      "Run": "312",
+      "Chute": 18
+    },
+    {
+      "Suburb": "NAREMBURN",
+      "Run": "078",
+      "Chute": 2
+    },
+    {
+      "Suburb": "NARRABEEN",
+      "Run": "179",
+      "Chute": 7
+    },
+    {
+      "Suburb": "NARRAWEENA",
+      "Run": "097",
+      "Chute": 18
+    },
+    {
+      "Suburb": "NARWEE",
+      "Run": "043",
+      "Chute": 11
+    },
+    {
+      "Suburb": "NEUTRAL BAY",
+      "Run": "176",
+      "Chute": 7
+    },
+    {
+      "Suburb": "NEUTRAL BAY JUNCTION",
+      "Run": "176",
+      "Chute": 19
+    },
+    {
+      "Suburb": "NEWINGTON",
+      "Run": "018",
+      "Chute": 22
+    },
+    {
+      "Suburb": "NEWPORT",
+      "Run": "073",
+      "Chute": 15
+    },
+    {
+      "Suburb": "NEWPORT BEACH",
+      "Run": "073",
+      "Chute": 21
+    },
+    {
+      "Suburb": "NEWTOWN",
+      "Run": "059",
+      "Chute": 9
+    },
+    {
+      "Suburb": "NIRIMBA FIELDS",
+      "Run": "196",
+      "Chute": 11
+    },
+    {
+      "Suburb": "NORMANHURST",
+      "Run": "348",
+      "Chute": 8
+    },
+    {
+      "Suburb": "NORTH BALGOWLAH",
+      "Run": "177",
+      "Chute": 22
+    },
+    {
+      "Suburb": "NORTH BONDI",
+      "Run": "340",
+      "Chute": 16
+    },
+    {
+      "Suburb": "NORTH CURL CURL",
+      "Run": "172",
+      "Chute": 16
+    },
+    {
+      "Suburb": "NORTH EPPING",
+      "Run": "123",
+      "Chute": 15
+    },
+    {
+      "Suburb": "NORTH KELLYVILLE",
+      "Run": "192",
+      "Chute": 19
+    },
+    {
+      "Suburb": "NORTH MANLY",
+      "Run": "071",
+      "Chute": 11
+    },
+    {
+      "Suburb": "NORTH NARRABEEN",
+      "Run": "197",
+      "Chute": 11
+    },
+    {
+      "Suburb": "NORTH PARRAMATTA",
+      "Run": "017",
+      "Chute": 17
+    },
+    {
+      "Suburb": "NORTH RICHMOND",
+      "Run": "007",
+      "Chute": 8
+    },
+    {
+      "Suburb": "NORTH ROCKS",
+      "Run": "012",
+      "Chute": 12
+    },
+    {
+      "Suburb": "NORTH RYDE",
+      "Run": "085",
+      "Chute": 11
+    },
+    {
+      "Suburb": "NORTH ST MARYS",
+      "Run": "003",
+      "Chute": 17
+    },
+    {
+      "Suburb": "NORTH STRATHFIELD",
+      "Run": "048",
+      "Chute": 7
+    },
+    {
+      "Suburb": "NORTH SYDNEY",
+      "Run": "121",
+      "Chute": 9
+    },
+    {
+      "Suburb": "NORTH SYDNEY SHOPPINGWORLD",
+      "Run": "121",
+      "Chute": 17
+    },
+    {
+      "Suburb": "NORTH TURRAMURRA",
+      "Run": "129",
+      "Chute": 14
+    },
+    {
+      "Suburb": "NORTH WAHROONGA",
+      "Run": "348",
+      "Chute": 16
+    },
+    {
+      "Suburb": "NORTH WILLOUGHBY",
+      "Run": "080",
+      "Chute": 8
+    },
+    {
+      "Suburb": "NORTHBRIDGE",
+      "Run": "078",
+      "Chute": 16
+    },
+    {
+      "Suburb": "NORTHMEAD",
+      "Run": "012",
+      "Chute": 15
+    },
+    {
+      "Suburb": "NORTHWOOD",
+      "Run": "182",
+      "Chute": 20
+    },
+    {
+      "Suburb": "NORWEST",
+      "Run": "011",
+      "Chute": 21
+    },
+    {
+      "Suburb": "OAKHURST",
+      "Run": "126",
+      "Chute": 5
+    },
+    {
+      "Suburb": "OATLANDS",
+      "Run": "017",
+      "Chute": 9
+    },
+    {
+      "Suburb": "OATLEY",
+      "Run": "142",
+      "Chute": 12
+    },
+    {
+      "Suburb": "OLD GUILDFORD",
+      "Run": "024",
+      "Chute": 19
+    },
+    {
+      "Suburb": "OLD TOONGABBIE",
+      "Run": "141",
+      "Chute": 7
+    },
+    {
+      "Suburb": "ORAN PARK",
+      "Run": "314",
+      "Chute": 1
+    },
+    {
+      "Suburb": "OXLEY PARK",
+      "Run": "003",
+      "Chute": 4
+    },
+    {
+      "Suburb": "OYSTER BAY",
+      "Run": "037",
+      "Chute": 22
+    },
+    {
+      "Suburb": "PADDINGTON",
+      "Run": "134",
+      "Chute": 23
+    },
+    {
+      "Suburb": "PADSTOW",
+      "Run": "139",
+      "Chute": 17
+    },
+    {
+      "Suburb": "PADSTOW HEIGHTS",
+      "Run": "139",
+      "Chute": 14
+    },
+    {
+      "Suburb": "PAGEWOOD",
+      "Run": "167",
+      "Chute": 3
+    },
+    {
+      "Suburb": "PALM BEACH",
+      "Run": "073",
+      "Chute": 16
+    },
+    {
+      "Suburb": "PANANIA",
+      "Run": "149",
+      "Chute": 2
+    },
+    {
+      "Suburb": "PARKLEA",
+      "Run": "136",
+      "Chute": 22
+    },
+    {
+      "Suburb": "PARLIAMENT HOUSE",
+      "Run": "090",
+      "Chute": 8
+    },
+    {
+      "Suburb": "PARRAMATTA",
+      "Run": "014",
+      "Chute": 13
+    },
+    {
+      "Suburb": "PARRAMATTA WESTFIELD",
+      "Run": "093",
+      "Chute": 9
+    },
+    {
+      "Suburb": "PEAKHURST",
+      "Run": "042",
+      "Chute": 2
+    },
+    {
+      "Suburb": "PEAKHURST HEIGHTS",
+      "Run": "042",
+      "Chute": 12
+    },
+    {
+      "Suburb": "PEMULWUY",
+      "Run": "282",
+      "Chute": 16
+    },
+    {
+      "Suburb": "PENDLE HILL",
+      "Run": "141",
+      "Chute": 14
+    },
+    {
+      "Suburb": "PENNANT HILLS",
+      "Run": "339",
+      "Chute": 9
+    },
+    {
+      "Suburb": "PENRITH",
+      "Run": "116",
+      "Chute": 20
+    },
+    {
+      "Suburb": "PENRITH PLAZA",
+      "Run": "116",
+      "Chute": 10
+    },
+    {
+      "Suburb": "PENRITH SOUTH",
+      "Run": "002",
+      "Chute": 15
+    },
+    {
+      "Suburb": "PENSHURST",
+      "Run": "142",
+      "Chute": 17
+    },
+    {
+      "Suburb": "PETERSHAM",
+      "Run": "155",
+      "Chute": 8
+    },
+    {
+      "Suburb": "PETERSHAM NORTH",
+      "Run": "155",
+      "Chute": 20
+    },
+    {
+      "Suburb": "PHILLIP BAY",
+      "Run": "346",
+      "Chute": 20
+    },
+    {
+      "Suburb": "PICNIC POINT",
+      "Run": "149",
+      "Chute": 21
+    },
+    {
+      "Suburb": "PLEASURE POINT",
+      "Run": "271",
+      "Chute": 13
+    },
+    {
+      "Suburb": "PLUMPTON",
+      "Run": "126",
+      "Chute": 4
+    },
+    {
+      "Suburb": "POINT PIPER",
+      "Run": "162",
+      "Chute": 11
+    },
+    {
+      "Suburb": "PORT BOTANY",
+      "Run": "066",
+      "Chute": 6
+    },
+    {
+      "Suburb": "PORT HACKING",
+      "Run": "036",
+      "Chute": 23
+    },
+    {
+      "Suburb": "POTTS HILL",
+      "Run": "491",
+      "Chute": 15
+    },
+    {
+      "Suburb": "POTTS POINT",
+      "Run": "631",
+      "Chute": 18
+    },
+    {
+      "Suburb": "PRAIRIEWOOD",
+      "Run": "105",
+      "Chute": 19
+    },
+    {
+      "Suburb": "PRESTONS",
+      "Run": "029",
+      "Chute": 4
+    },
+    {
+      "Suburb": "PROSPECT",
+      "Run": "010",
+      "Chute": 16
+    },
+    {
+      "Suburb": "PUNCHBOWL",
+      "Run": "049",
+      "Chute": 9
+    },
+    {
+      "Suburb": "PUTNEY",
+      "Run": "184",
+      "Chute": 18
+    },
+    {
+      "Suburb": "PYMBLE",
+      "Run": "108",
+      "Chute": 21
+    },
+    {
+      "Suburb": "PYRMONT",
+      "Run": "056",
+      "Chute": 21
+    },
+    {
+      "Suburb": "QUAKERS HILL",
+      "Run": "196",
+      "Chute": 10
+    },
+    {
+      "Suburb": "QUEENS PARK",
+      "Run": "164",
+      "Chute": 22
+    },
+    {
+      "Suburb": "QUEENSCLIFF",
+      "Run": "172",
+      "Chute": 3
+    },
+    {
+      "Suburb": "RAAF RICHMOND",
+      "Run": "007",
+      "Chute": 2
+    },
+    {
+      "Suburb": "RABY",
+      "Run": "030",
+      "Chute": 6
+    },
+    {
+      "Suburb": "RAMSGATE",
+      "Run": "103",
+      "Chute": 11
+    },
+    {
+      "Suburb": "RAMSGATE BEACH",
+      "Run": "103",
+      "Chute": 13
+    },
+    {
+      "Suburb": "RANDWICK",
+      "Run": "343",
+      "Chute": 13
+    },
+    {
+      "Suburb": "REDFERN",
+      "Run": "159",
+      "Chute": 23
+    },
+    {
+      "Suburb": "REGENTS PARK",
+      "Run": "023",
+      "Chute": 4
+    },
+    {
+      "Suburb": "REGENTVILLE",
+      "Run": "191",
+      "Chute": 21
+    },
+    {
+      "Suburb": "REVESBY",
+      "Run": "369",
+      "Chute": 6
+    },
+    {
+      "Suburb": "REVESBY HEIGHTS",
+      "Run": "369",
+      "Chute": 19
+    },
+    {
+      "Suburb": "REVESBY NORTH",
+      "Run": "369",
+      "Chute": 23
+    },
+    {
+      "Suburb": "RHODES",
+      "Run": "050",
+      "Chute": 19
+    },
+    {
+      "Suburb": "RICHARDS",
+      "Run": "086",
+      "Chute": 23
+    },
+    {
+      "Suburb": "RICHMOND",
+      "Run": "007",
+      "Chute": 11
+    },
+    {
+      "Suburb": "RICHMOND LOWLANDS",
+      "Run": "007",
+      "Chute": 24
+    },
+    {
+      "Suburb": "RIVERSTONE",
+      "Run": "086",
+      "Chute": 5
+    },
+    {
+      "Suburb": "RIVERVIEW",
+      "Run": "182",
+      "Chute": 19
+    },
+    {
+      "Suburb": "RIVERWOOD",
+      "Run": "043",
+      "Chute": 5
+    },
+    {
+      "Suburb": "ROCKDALE",
+      "Run": "147",
+      "Chute": 15
+    },
+    {
+      "Suburb": "RODD POINT",
+      "Run": "349",
+      "Chute": 19
+    },
+    {
+      "Suburb": "ROOKWOOD",
+      "Run": "040",
+      "Chute": 11
+    },
+    {
+      "Suburb": "ROOTY HILL",
+      "Run": "126",
+      "Chute": 9
+    },
+    {
+      "Suburb": "ROPES CROSSING",
+      "Run": "198",
+      "Chute": 12
+    },
+    {
+      "Suburb": "ROSE BAY",
+      "Run": "061",
+      "Chute": 13
+    },
+    {
+      "Suburb": "ROSE BAY NORTH",
+      "Run": "061",
+      "Chute": 5
+    },
+    {
+      "Suburb": "ROSEBERY",
+      "Run": "111",
+      "Chute": 7
+    },
+    {
+      "Suburb": "ROSEHILL",
+      "Run": "014",
+      "Chute": 22
+    },
+    {
+      "Suburb": "ROSELANDS",
+      "Run": "047",
+      "Chute": 16
+    },
+    {
+      "Suburb": "ROSEMEADOW",
+      "Run": "114",
+      "Chute": 11
+    },
+    {
+      "Suburb": "ROSEVILLE",
+      "Run": "180",
+      "Chute": 15
+    },
+    {
+      "Suburb": "ROSEVILLE CHASE",
+      "Run": "080",
+      "Chute": 6
+    },
+    {
+      "Suburb": "ROUND CORNER",
+      "Run": "016",
+      "Chute": 22
+    },
+    {
+      "Suburb": "ROUSE HILL",
+      "Run": "006",
+      "Chute": 19
+    },
+    {
+      "Suburb": "ROYAL NORTH SHORE HOSPITAL",
+      "Run": "186",
+      "Chute": 23
+    },
+    {
+      "Suburb": "ROZELLE",
+      "Run": "094",
+      "Chute": 14
+    },
+    {
+      "Suburb": "RUSE",
+      "Run": "114",
+      "Chute": 23
+    },
+    {
+      "Suburb": "RUSHCUTTERS BAY",
+      "Run": "164",
+      "Chute": 17
+    },
+    {
+      "Suburb": "RUSSELL LEA",
+      "Run": "052",
+      "Chute": 10
+    },
+    {
+      "Suburb": "RYDALMERE",
+      "Run": "015",
+      "Chute": 12
+    },
+    {
+      "Suburb": "RYDE",
+      "Run": "185",
+      "Chute": 2
+    },
+    {
+      "Suburb": "SADLEIR",
+      "Run": "377",
+      "Chute": 17
+    },
+    {
+      "Suburb": "SANDRINGHAM",
+      "Run": "103",
+      "Chute": 22
+    },
+    {
+      "Suburb": "SANDY POINT",
+      "Run": "271",
+      "Chute": 20
+    },
+    {
+      "Suburb": "SANS SOUCI",
+      "Run": "103",
+      "Chute": 4
+    },
+    {
+      "Suburb": "SCHOFIELDS",
+      "Run": "861",
+      "Chute": 17
+    },
+    {
+      "Suburb": "SEAFORTH",
+      "Run": "177",
+      "Chute": 17
+    },
+    {
+      "Suburb": "SEFTON",
+      "Run": "021",
+      "Chute": 9
+    },
+    {
+      "Suburb": "SEVEN HILLS",
+      "Run": "356",
+      "Chute": 11
+    },
+    {
+      "Suburb": "SEVEN HILLS WEST",
+      "Run": "009",
+      "Chute": 15
+    },
+    {
+      "Suburb": "SHALVEY",
+      "Run": "126",
+      "Chute": 19
+    },
+    {
+      "Suburb": "SHANE PARK",
+      "Run": "152",
+      "Chute": 8
+    },
+    {
+      "Suburb": "SHANES PARK",
+      "Run": "152",
+      "Chute": 20
+    },
+    {
+      "Suburb": "SILVERWATER",
+      "Run": "118",
+      "Chute": 10
+    },
+    {
+      "Suburb": "SMEATON GRANGE",
+      "Run": "031",
+      "Chute": 2
+    },
+    {
+      "Suburb": "SMITHFIELD",
+      "Run": "025",
+      "Chute": 20
+    },
+    {
+      "Suburb": "SMITHFIELD WEST",
+      "Run": "195",
+      "Chute": 19
+    },
+    {
+      "Suburb": "SOUTH COOGEE",
+      "Run": "153",
+      "Chute": 20
+    },
+    {
+      "Suburb": "SOUTH GRANVILLE",
+      "Run": "120",
+      "Chute": 15
+    },
+    {
+      "Suburb": "SOUTH HURSTVILLE",
+      "Run": "156",
+      "Chute": 1
+    },
+    {
+      "Suburb": "SOUTH PENRITH",
+      "Run": "002",
+      "Chute": 9
+    },
+    {
+      "Suburb": "SOUTH TURRAMURRA",
+      "Run": "129",
+      "Chute": 6
+    },
+    {
+      "Suburb": "SOUTH WENTWORTHVILLE",
+      "Run": "282",
+      "Chute": 24
+    },
+    {
+      "Suburb": "SOUTH WINDSOR",
+      "Run": "008",
+      "Chute": 1
+    },
+    {
+      "Suburb": "SPIT JUNCTION",
+      "Run": "076",
+      "Chute": 10
+    },
+    {
+      "Suburb": "SPRING FARM",
+      "Run": "312",
+      "Chute": 21
+    },
+    {
+      "Suburb": "SPRINGWOOD",
+      "Run": "101",
+      "Chute": 9
+    },
+    {
+      "Suburb": "ST ANDREWS",
+      "Run": "030",
+      "Chute": 11
+    },
+    {
+      "Suburb": "ST CLAIR",
+      "Run": "354",
+      "Chute": 6
+    },
+    {
+      "Suburb": "ST HELENS PARK",
+      "Run": "114",
+      "Chute": 2
+    },
+    {
+      "Suburb": "ST IVES",
+      "Run": "110",
+      "Chute": 8
+    },
+    {
+      "Suburb": "ST IVES CHASE",
+      "Run": "110",
+      "Chute": 16
+    },
+    {
+      "Suburb": "ST JOHNS PARK",
+      "Run": "194",
+      "Chute": 16
+    },
+    {
+      "Suburb": "ST LEONARDS",
+      "Run": "186",
+      "Chute": 7
+    },
+    {
+      "Suburb": "ST MARYS",
+      "Run": "003",
+      "Chute": 11
+    },
+    {
+      "Suburb": "ST MARYS EAST",
+      "Run": "003",
+      "Chute": 9
+    },
+    {
+      "Suburb": "ST MARYS SOUTH",
+      "Run": "003",
+      "Chute": 4
+    },
+    {
+      "Suburb": "ST PAULS",
+      "Run": "343",
+      "Chute": 5
+    },
+    {
+      "Suburb": "ST PETERS",
+      "Run": "054",
+      "Chute": 11
+    },
+    {
+      "Suburb": "STANHOPE GARDENS",
+      "Run": "602",
+      "Chute": 17
+    },
+    {
+      "Suburb": "STANMORE",
+      "Run": "127",
+      "Chute": 18
+    },
+    {
+      "Suburb": "STRATHFIELD",
+      "Run": "048",
+      "Chute": 20
+    },
+    {
+      "Suburb": "STRATHFIELD SOUTH",
+      "Run": "046",
+      "Chute": 2
+    },
+    {
+      "Suburb": "STRAWBERRY HILLS",
+      "Run": "159",
+      "Chute": 15
+    },
+    {
+      "Suburb": "SUMMER HILL",
+      "Run": "055",
+      "Chute": 13
+    },
+    {
+      "Suburb": "SUN VALLEY",
+      "Run": "109",
+      "Chute": 24
+    },
+    {
+      "Suburb": "SURRY HILLS",
+      "Run": "062",
+      "Chute": 8
+    },
+    {
+      "Suburb": "SUTHERLAND",
+      "Run": "381",
+      "Chute": 22
+    },
+    {
+      "Suburb": "SYDENHAM",
+      "Run": "054",
+      "Chute": 16
+    },
+    {
+      "Suburb": "SYDNEY",
+      "Run": "090",
+      "Chute": 10
+    },
+    {
+      "Suburb": "SYDNEY DOMESTIC AIRPORT",
+      "Run": "068",
+      "Chute": 13
+    },
+    {
+      "Suburb": "SYDNEY INTERNATIONAL AIRPORT",
+      "Run": "068",
+      "Chute": 23
+    },
+    {
+      "Suburb": "SYDNEY OLYMPIC PARK",
+      "Run": "019",
+      "Chute": 19
+    },
+    {
+      "Suburb": "SYDNEY SOUTH",
+      "Run": "159",
+      "Chute": 4
+    },
+    {
+      "Suburb": "SYDNEY UNIVERSITY",
+      "Run": "591",
+      "Chute": 13
+    },
+    {
+      "Suburb": "SYLVANIA",
+      "Run": "122",
+      "Chute": 17
+    },
+    {
+      "Suburb": "SYLVANIA SOUTHGATE",
+      "Run": "122",
+      "Chute": 7
+    },
+    {
+      "Suburb": "SYLVANIA WATERS",
+      "Run": "122",
+      "Chute": 5
+    },
+    {
+      "Suburb": "TALLAWONG",
+      "Run": "861",
+      "Chute": 15
+    },
+    {
+      "Suburb": "TAMARAMA",
+      "Run": "150",
+      "Chute": 2
+    },
+    {
+      "Suburb": "TAREN POINT",
+      "Run": "035",
+      "Chute": 17
+    },
+    {
+      "Suburb": "TELOPEA",
+      "Run": "338",
+      "Chute": 14
+    },
+    {
+      "Suburb": "TEMPE",
+      "Run": "147",
+      "Chute": 23
+    },
+    {
+      "Suburb": "TENNYSON POINT",
+      "Run": "125",
+      "Chute": 13
+    },
+    {
+      "Suburb": "TERREY HILLS",
+      "Run": "096",
+      "Chute": 17
+    },
+    {
+      "Suburb": "THE PONDS",
+      "Run": "602",
+      "Chute": 15
+    },
+    {
+      "Suburb": "THE ROCKS",
+      "Run": "057",
+      "Chute": 7
+    },
+    {
+      "Suburb": "THE UNIVERSITY OF SYDNEY",
+      "Run": "591",
+      "Chute": 2
+    },
+    {
+      "Suburb": "THORNLEIGH",
+      "Run": "087",
+      "Chute": 7
+    },
+    {
+      "Suburb": "TOONGABBIE",
+      "Run": "010",
+      "Chute": 8
+    },
+    {
+      "Suburb": "TOONGABBIE EAST",
+      "Run": "093",
+      "Chute": 24
+    },
+    {
+      "Suburb": "TREGEAR",
+      "Run": "355",
+      "Chute": 16
+    },
+    {
+      "Suburb": "TURRAMURRA",
+      "Run": "129",
+      "Chute": 7
+    },
+    {
+      "Suburb": "TURRELLA",
+      "Run": "347",
+      "Chute": 18
+    },
+    {
+      "Suburb": "ULTIMO",
+      "Run": "053",
+      "Chute": 24
+    },
+    {
+      "Suburb": "UNSW SYDNEY",
+      "Run": "343",
+      "Chute": 15
+    },
+    {
+      "Suburb": "VALLEY HEIGHTS",
+      "Run": "109",
+      "Chute": 8
+    },
+    {
+      "Suburb": "VAUCLUSE",
+      "Run": "340",
+      "Chute": 5
+    },
+    {
+      "Suburb": "VILLAWOOD",
+      "Run": "120",
+      "Chute": 24
+    },
+    {
+      "Suburb": "VINEYARD",
+      "Run": "008",
+      "Chute": 7
+    },
+    {
+      "Suburb": "VOYAGER POINT",
+      "Run": "271",
+      "Chute": 14
+    },
+    {
+      "Suburb": "WAHROONGA",
+      "Run": "348",
+      "Chute": 1
+    },
+    {
+      "Suburb": "WAITARA",
+      "Run": "188",
+      "Chute": 24
+    },
+    {
+      "Suburb": "WAKELEY",
+      "Run": "195",
+      "Chute": 24
+    },
+    {
+      "Suburb": "WAREEMBA",
+      "Run": "052",
+      "Chute": 17
+    },
+    {
+      "Suburb": "WARRAWEE",
+      "Run": "348",
+      "Chute": 12
+    },
+    {
+      "Suburb": "WARRIEWOOD",
+      "Run": "096",
+      "Chute": 10
+    },
+    {
+      "Suburb": "WARRIEWOOD SHOPPING SQUARE",
+      "Run": "072",
+      "Chute": 1
+    },
+    {
+      "Suburb": "WARRIMOO",
+      "Run": "109",
+      "Chute": 10
+    },
+    {
+      "Suburb": "WARRINGAH MALL",
+      "Run": "074",
+      "Chute": 23
+    },
+    {
+      "Suburb": "WARWICK FARM",
+      "Run": "119",
+      "Chute": 1
+    },
+    {
+      "Suburb": "WATERLOO",
+      "Run": "065",
+      "Chute": 8
+    },
+    {
+      "Suburb": "WATSONS BAY",
+      "Run": "340",
+      "Chute": 20
+    },
+    {
+      "Suburb": "WATTLE GROVE",
+      "Run": "271",
+      "Chute": 21
+    },
+    {
+      "Suburb": "WAVERLEY",
+      "Run": "150",
+      "Chute": 1
+    },
+    {
+      "Suburb": "WAVERTON",
+      "Run": "081",
+      "Chute": 3
+    },
+    {
+      "Suburb": "WENTWORTH FALLS",
+      "Run": "228",
+      "Chute": 13
+    },
+    {
+      "Suburb": "WENTWORTH POINT",
+      "Run": "019",
+      "Chute": 20
+    },
+    {
+      "Suburb": "WENTWORTHVILLE",
+      "Run": "093",
+      "Chute": 24
+    },
+    {
+      "Suburb": "WERRINGTON",
+      "Run": "098",
+      "Chute": 13
+    },
+    {
+      "Suburb": "WERRINGTON COUNTY",
+      "Run": "198",
+      "Chute": 15
+    },
+    {
+      "Suburb": "WERRINGTON DOWNS",
+      "Run": "198",
+      "Chute": 20
+    },
+    {
+      "Suburb": "WEST HOXTON",
+      "Run": "291",
+      "Chute": 8
+    },
+    {
+      "Suburb": "WEST PENNANT HILLS",
+      "Run": "124",
+      "Chute": 12
+    },
+    {
+      "Suburb": "WEST PYMBLE",
+      "Run": "110",
+      "Chute": 3
+    },
+    {
+      "Suburb": "WEST RYDE",
+      "Run": "184",
+      "Chute": 7
+    },
+    {
+      "Suburb": "WESTGATE",
+      "Run": "127",
+      "Chute": 14
+    },
+    {
+      "Suburb": "WESTLEIGH",
+      "Run": "087",
+      "Chute": 8
+    },
+    {
+      "Suburb": "WESTMEAD",
+      "Run": "093",
+      "Chute": 19
+    },
+    {
+      "Suburb": "WETHERILL PARK",
+      "Run": "105",
+      "Chute": 6
+    },
+    {
+      "Suburb": "WHALAN",
+      "Run": "355",
+      "Chute": 5
+    },
+    {
+      "Suburb": "WHALE BEACH",
+      "Run": "073",
+      "Chute": 4
+    },
+    {
+      "Suburb": "WHEELER HEIGHTS",
+      "Run": "179",
+      "Chute": 3
+    },
+    {
+      "Suburb": "WILEY PARK",
+      "Run": "049",
+      "Chute": 17
+    },
+    {
+      "Suburb": "WILLMOT",
+      "Run": "198",
+      "Chute": 20
+    },
+    {
+      "Suburb": "WILLOUGHBY",
+      "Run": "078",
+      "Chute": 17
+    },
+    {
+      "Suburb": "WILLOUGHBY EAST",
+      "Run": "080",
+      "Chute": 23
+    },
+    {
+      "Suburb": "WILLOUGHBY NORTH",
+      "Run": "080",
+      "Chute": 19
+    },
+    {
+      "Suburb": "WINDSOR",
+      "Run": "008",
+      "Chute": 12
+    },
+    {
+      "Suburb": "WINDSOR DOWNS",
+      "Run": "152",
+      "Chute": 5
+    },
+    {
+      "Suburb": "WINSTON HILLS",
+      "Run": "141",
+      "Chute": 5
+    },
+    {
+      "Suburb": "WOLLI CREEK",
+      "Run": "347",
+      "Chute": 17
+    },
+    {
+      "Suburb": "WOLLSTONECRAFT",
+      "Run": "081",
+      "Chute": 20
+    },
+    {
+      "Suburb": "WOODBINE",
+      "Run": "033",
+      "Chute": 22
+    },
+    {
+      "Suburb": "WOODCROFT",
+      "Run": "135",
+      "Chute": 15
+    },
+    {
+      "Suburb": "WOODFORD",
+      "Run": "101",
+      "Chute": 22
+    },
+    {
+      "Suburb": "WOODPARK",
+      "Run": "028",
+      "Chute": 6
+    },
+    {
+      "Suburb": "WOOLLAHRA",
+      "Run": "164",
+      "Chute": 4
+    },
+    {
+      "Suburb": "WOOLLOOMOOLOO",
+      "Run": "631",
+      "Chute": 7
+    },
+    {
+      "Suburb": "WOOLOOWARE",
+      "Run": "351",
+      "Chute": 17
+    },
+    {
+      "Suburb": "WOOLWICH",
+      "Run": "125",
+      "Chute": 4
+    },
+    {
+      "Suburb": "WORONORA",
+      "Run": "371",
+      "Chute": 2
+    },
+    {
+      "Suburb": "WORONORA HEIGHTS",
+      "Run": "144",
+      "Chute": 20
+    },
+    {
+      "Suburb": "YAGOONA",
+      "Run": "491",
+      "Chute": 24
+    },
+    {
+      "Suburb": "YAGOONA WEST",
+      "Run": "491",
+      "Chute": 12
+    },
+    {
+      "Suburb": "YARRAWARRAH",
+      "Run": "381",
+      "Chute": 9
+    },
+    {
+      "Suburb": "YENNORA",
+      "Run": "024",
+      "Chute": 21
+    },
+    {
+      "Suburb": "YOWIE BAY",
+      "Run": "361",
+      "Chute": 12
+    },
+    {
+      "Suburb": "ZETLAND",
+      "Run": "065",
+      "Chute": 5
+    }
+  ]
