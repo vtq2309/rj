@@ -6,7 +6,7 @@
   <style>
     body {
       font-family: Arial, sans-serif;
-      max-width: 600px;
+      max-width: 700px;
       margin: 20px auto;
       padding: 20px;
     }
@@ -22,25 +22,29 @@
       margin: 20px 0;
     }
     #suburbInput {
-      width: 100%;
-      padding: 12px;
-      font-size: 18px;
-      border: 1px solid #ddd;
-      border-radius: 4px;
-      box-sizing: border-box;
+     width: 60%; /* Hoặc giá trị như 300px */
+     padding: 12px;
+     font-size: 18px;
+     border: 1px solid #ddd;
+     border-radius: 4px;
+     box-sizing: border-box;
+     margin: 0 auto;
+     display: block;
     }
+
     .suggestions {
-      position: absolute;
-      width: 100%;
-      border: 1px solid #ddd;
-      border-radius: 4px;
-      background: white;
-      z-index: 1000;
-      display: none;
-      /* Bỏ cuộn */
-      max-height: none;
-      overflow: visible;
+     position: absolute;
+     width: 100%;
+     max-width: 60%; /* Giống input */
+     left: 50%;
+     transform: translateX(-50%);
+     border: 1px solid #ddd;
+     border-radius: 4px;
+     background: white;
+     z-index: 1000;
+     display: none;
     }
+
     .suggestion-item {
       padding: 10px;
       cursor: pointer;
@@ -53,10 +57,10 @@
       background: #dceeff;
     }
     .chute-info {
-      margin-top: 30px;
-      padding: 20px;
+      margin-top: 40px;
+      padding: 10px;
       background: #f1f3f5;
-      border-radius: 6px;
+      border-radius: 10px;
       display: none;
       font-size: 24px;
       font-weight: bold;
@@ -69,7 +73,7 @@
   <div class="logo">
     <img src="logo.png" alt="Company Logo" />
   </div>
-  <h1 style="text-align: center;">Reject Chute</h1>
+  <h1 style="text-align: center;">Reject Chute (Chute 13)</h1>
 
   <div class="search-container">
     <input type="text" id="suburbInput" placeholder="Enter Suburb" autocomplete="off" />
