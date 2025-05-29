@@ -15,16 +15,16 @@
       margin-bottom: 20px;
     }
     .logo img {
-      max-width: 400px;
+      max-width: 500px;
     }
     .search-container {
       position: relative;
       margin: 20px 0;
     }
     #suburbInput {
-     width: 60%;
+     width: 80%;
      padding: 12px;
-     font-size: 18px;
+     font-size: 24px;
      border: 1px solid #ddd;
      border-radius: 4px;
      box-sizing: border-box;
@@ -35,7 +35,7 @@
     .suggestions {
      position: absolute;
      width: 100%;
-     max-width: 60%;
+     max-width: 80%;
      left: 50%;
      transform: translateX(-50%);
      border: 1px solid #ddd;
@@ -46,6 +46,7 @@
     }
 
     .suggestion-item {
+	  font-size: 24px;
       padding: 10px;
       cursor: pointer;
       transition: background 0.2s;
@@ -138,25 +139,34 @@
       }
 
       if (filtered.length > 0) {
-        suggestions.style.display = 'block';
-        filtered.forEach((item, index) => {
-          const div = document.createElement('div');
-          div.className = 'suggestion-item';
-          div.innerHTML = `
-            <span><strong>${item.Suburb}</strong></span>
-            <span style="color: #666;">Chute ${item.Chute}</span>
-          `;
-          div.dataset.index = index;
-          div.addEventListener('click', () => {
-            selectItem(item);
-          });
-          suggestions.appendChild(div);
-        });
-        currentIndex = 0;
-        updateActiveItem(suggestions.querySelectorAll('.suggestion-item'));
-      } else {
-        suggestions.style.display = 'none';
-      }
+  suggestions.style.display = 'block';
+  filtered.forEach((item, index) => {
+    const div = document.createElement('div');
+    div.className = 'suggestion-item';
+    div.innerHTML = `
+      <span><strong>${item.Suburb}</strong></span>
+      <span style="color: #333; font-weight: bold; font-size: 24px; margin-left: 8px;">
+       Chute ${item.Chute}
+      </span>
+    `;
+    div.dataset.index = index;
+    div.addEventListener('click', () => {
+      selectItem(item);
+    });
+    suggestions.appendChild(div);
+  });
+  currentIndex = 0;
+  updateActiveItem(suggestions.querySelectorAll('.suggestion-item'));
+} else {
+  suggestions.style.display = 'block';
+  const div = document.createElement('div');
+  div.className = 'suggestion-item';
+  div.textContent = 'No suburb found.';
+  div.style.color = '#666';
+  div.style.justifyContent = 'center';
+  suggestions.appendChild(div);
+}
+
     });
 
     input.addEventListener('keydown', function (e) {
@@ -170,7 +180,7 @@
         e.preventDefault();
         currentIndex = (currentIndex - 1 + items.length) % items.length;
         updateActiveItem(items);
-      } else if (e.key === 'Enter') {
+      } else if (e.key === 'Enter' || e.key === 'Tab') {
         e.preventDefault();
         if (currentIndex >= 0 && items[currentIndex]) {
           const suburbText = items[currentIndex].querySelector('strong').textContent;
@@ -183,7 +193,7 @@
     });
 
     document.addEventListener('keydown', function (e) {
-      if (e.key === 'Enter' && document.activeElement !== input) {
+      if ((e.key === 'Enter' || e.key === 'Tab') && document.activeElement !== input) {
         e.preventDefault();
         clearInputAndResult();
       }
