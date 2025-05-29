@@ -15,14 +15,14 @@
       margin-bottom: 20px;
     }
     .logo img {
-      max-width: 300px;
+      max-width: 400px;
     }
     .search-container {
       position: relative;
       margin: 20px 0;
     }
     #suburbInput {
-     width: 60%; /* Hoặc giá trị như 300px */
+     width: 60%;
      padding: 12px;
      font-size: 18px;
      border: 1px solid #ddd;
@@ -35,7 +35,7 @@
     .suggestions {
      position: absolute;
      width: 100%;
-     max-width: 60%; /* Giống input */
+     max-width: 60%;
      left: 50%;
      transform: translateX(-50%);
      border: 1px solid #ddd;
@@ -62,10 +62,23 @@
       background: #f1f3f5;
       border-radius: 10px;
       display: none;
-      font-size: 24px;
+      font-size: 26px;
       font-weight: bold;
       color: #2c3e50;
       text-align: center;
+    }
+
+    /* ✅ Chỉ thêm phần CSS này cho footer */
+    footer {
+      position: fixed;
+      bottom: 0;
+      left: 0;
+      width: 100%;
+      text-align: center;
+      font-size: 15px;
+      color: #555;
+      background: #f9f9f9;
+      padding: 10px 0;
     }
   </style>
 </head>
@@ -82,6 +95,12 @@
 
   <div class="chute-info" id="chuteInfo"></div>
 
+  <!-- ✅ Footer cố định dưới cùng màn hình -->
+  <footer>
+    Created by: Thien Quang VU<br />
+    (AM Shift)
+  </footer>
+
   <script>
     let suburbData = [];
     let currentIndex = -1;
@@ -90,7 +109,6 @@
     const suggestions = document.getElementById('suggestions');
     const chuteInfo = document.getElementById('chuteInfo');
 
-    // Load dữ liệu từ file JSON (thay 'data.json' bằng đường dẫn đúng)
     fetch('data.json')
       .then((response) => response.json())
       .then((data) => (suburbData = data))
@@ -107,7 +125,6 @@
         return;
       }
 
-      // Lọc các suburb bắt đầu bằng chuỗi nhập (từ trái sang)
       const filtered = suburbData.filter((item) =>
         item.Suburb.toLowerCase().startsWith(value)
       );
@@ -135,7 +152,7 @@
           });
           suggestions.appendChild(div);
         });
-        currentIndex = 0; // Bôi đen mục đầu tiên
+        currentIndex = 0;
         updateActiveItem(suggestions.querySelectorAll('.suggestion-item'));
       } else {
         suggestions.style.display = 'none';
@@ -165,7 +182,6 @@
       }
     });
 
-    // Enter bên ngoài input cũng Clear + Focus input
     document.addEventListener('keydown', function (e) {
       if (e.key === 'Enter' && document.activeElement !== input) {
         e.preventDefault();
