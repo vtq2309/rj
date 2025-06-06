@@ -10,53 +10,59 @@
       margin: 20px auto;
       padding: 20px;
     }
+
     .logo {
       text-align: center;
       margin-bottom: 20px;
     }
+
     .logo img {
       max-width: 500px;
     }
+
     .search-container {
       position: relative;
       margin: 20px 0;
     }
+
     #suburbInput {
-     width: 80%;
-     padding: 12px;
-     font-size: 24px;
-     border: 1px solid #ddd;
-     border-radius: 4px;
-     box-sizing: border-box;
-     margin: 0 auto;
-     display: block;
+      width: 80%;
+      padding: 12px;
+      font-size: 24px;
+      border: 1px solid #ddd;
+      border-radius: 4px;
+      box-sizing: border-box;
+      margin: 0 auto;
+      display: block;
     }
 
     .suggestions {
-     position: absolute;
-     width: 100%;
-     max-width: 80%;
-     left: 50%;
-     transform: translateX(-50%);
-     border: 1px solid #ddd;
-     border-radius: 4px;
-     background: white;
-     z-index: 1000;
-     display: none;
+      position: absolute;
+      width: 100%;
+      max-width: 80%;
+      left: 50%;
+      transform: translateX(-50%);
+      border: 1px solid #ddd;
+      border-radius: 4px;
+      background: white;
+      z-index: 1000;
+      display: none;
     }
 
     .suggestion-item {
-	  font-size: 24px;
+      font-size: 24px;
       padding: 10px;
       cursor: pointer;
       transition: background 0.2s;
       display: flex;
       justify-content: space-between;
     }
+
     .suggestion-item:hover,
     .suggestion-item.active {
       background: #dceeff;
     }
+
     .chute-info {
       margin-top: 40px;
       padding: 10px;
@@ -69,7 +75,6 @@
       text-align: center;
     }
 
-    /* ✅ Chỉ thêm phần CSS này cho footer */
     footer {
       position: fixed;
       bottom: 0;
@@ -81,12 +86,53 @@
       background: #f9f9f9;
       padding: 10px 0;
     }
+
+    /* ✅ Bảng hướng dẫn ở góc trên phải */
+    .guide-box {
+      position: fixed;
+      top: 10px;
+      right: 10px;
+      width: 250px;
+      background-color: #fefefe;
+      border: 1px solid #ccc;
+      border-radius: 10px;
+      padding: 15px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+      font-size: 12px;
+      line-height: 1.5;
+      z-index: 2000;
+    }
+    .guide-box h3 {
+      margin-top: 0;
+      font-size: 15px;
+      text-align: center;
+      color: #2c3e50;
+    }
+    .guide-box ul {
+      padding-left: 20px;
+    }
+    .guide-box li {
+      margin-bottom: 8px;
+    }
   </style>
   <link rel="manifest" href="manifest.json" />
   <meta name="theme-color" content="#2c3e50" />
-
 </head>
 <body>
+  <!-- ✅ Bảng hướng dẫn sử dụng -->
+  <div class="guide-box">
+    <h3>How to Use</h3>
+    <ul>
+	  <li>Press <strong>Enter</strong> or <strong>Tab</strong> to focus the input box.</li>
+      <li>Enter the suburb name.</li>
+      <li>Suggestions will appear automatically.</li>
+	  <li>Use <strong>Arrow Up/Down</strong> to navigate.</li>
+      <li>Press <strong>Enter</strong>  or <strong>TAB</strong> to confirm selection.</li>
+	  <li>Press <strong>Enter</strong>  or <strong>TAB</strong> to reset.</li>
+      
+    </ul>
+  </div>
+
   <div class="logo">
     <img src="logo.png" alt="Company Logo" />
   </div>
@@ -99,7 +145,6 @@
 
   <div class="chute-info" id="chuteInfo"></div>
 
-  <!-- ✅ Footer cố định dưới cùng màn hình -->
   <footer>
     Created by: Thien Quang VU<br />
     (AM Shift)
@@ -142,34 +187,33 @@
       }
 
       if (filtered.length > 0) {
-  suggestions.style.display = 'block';
-  filtered.forEach((item, index) => {
-    const div = document.createElement('div');
-    div.className = 'suggestion-item';
-    div.innerHTML = `
-      <span><strong>${item.Suburb}</strong></span>
-      <span style="color: #333; font-weight: bold; font-size: 24px; margin-left: 8px;">
-       Chute ${item.Chute}
-      </span>
-    `;
-    div.dataset.index = index;
-    div.addEventListener('click', () => {
-      selectItem(item);
-    });
-    suggestions.appendChild(div);
-  });
-  currentIndex = 0;
-  updateActiveItem(suggestions.querySelectorAll('.suggestion-item'));
-} else {
-  suggestions.style.display = 'block';
-  const div = document.createElement('div');
-  div.className = 'suggestion-item';
-  div.textContent = 'No suburb found.';
-  div.style.color = '#666';
-  div.style.justifyContent = 'center';
-  suggestions.appendChild(div);
-}
-
+        suggestions.style.display = 'block';
+        filtered.forEach((item, index) => {
+          const div = document.createElement('div');
+          div.className = 'suggestion-item';
+          div.innerHTML = `
+            <span><strong>${item.Suburb}</strong></span>
+            <span style="color: #333; font-weight: bold; font-size: 24px; margin-left: 8px;">
+              Chute ${item.Chute}
+            </span>
+          `;
+          div.dataset.index = index;
+          div.addEventListener('click', () => {
+            selectItem(item);
+          });
+          suggestions.appendChild(div);
+        });
+        currentIndex = 0;
+        updateActiveItem(suggestions.querySelectorAll('.suggestion-item'));
+      } else {
+        suggestions.style.display = 'block';
+        const div = document.createElement('div');
+        div.className = 'suggestion-item';
+        div.textContent = 'No suburb found.';
+        div.style.color = '#666';
+        div.style.justifyContent = 'center';
+        suggestions.appendChild(div);
+      }
     });
 
     input.addEventListener('keydown', function (e) {
