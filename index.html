@@ -3,6 +3,9 @@
 <head>
   <meta charset="UTF-8" />
   <title>Reject Chute App</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="manifest" href="manifest.json" />
+  <meta name="theme-color" content="#2c3e50" />
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -29,7 +32,6 @@
       max-width: 220px;
       height: auto;
     }
-    /* Animated dots under "Updating..." */
     .updating-text {
       font-size: 22px;
       color: #555;
@@ -79,5 +81,24 @@
     Created by: Thien Quang VU<br />
     (AM Shift)
   </footer>
+
+  <script>
+    // Lắng nghe sự kiện để hiển thị hộp thoại cài đặt nếu đủ điều kiện
+    window.addEventListener('beforeinstallprompt', (e) => {
+      e.preventDefault(); // Ngăn Chrome tự động hiển thị
+      console.log('📦 Có thể cài đặt ứng dụng');
+
+      // Hiển thị dialog
+      e.prompt();
+
+      e.userChoice.then((choiceResult) => {
+        if (choiceResult.outcome === 'accepted') {
+          console.log('✅ Người dùng đã chấp nhận cài đặt');
+        } else {
+          console.log('❌ Người dùng từ chối cài đặt');
+        }
+      });
+    });
+  </script>
 </body>
 </html>
